@@ -1,4 +1,4 @@
-### 📝 Exercise - LinkedList
+### 📝 Exercise - ArrayList
 
 - [ArrayList Delete](https://github.com/Adhyashetty-bit/1workedexample/blob/main/ArrayList/ArrayListDelete.png)
 - [ArrayList Extract](https://github.com/Adhyashetty-bit/1workedexample/blob/main/ArrayList/ArrayListExtract.png)
