@@ -1,4 +1,4 @@
-### 📝 Exercise 
+### 📝 Exercise - string exercise
 
 - [StringExercise](https://github.com/Adhyashetty-bit/1workedexample/blob/main/String_Exercise/StringNull.png)
 - [StringExercise](https://github.com/Adhyashetty-bit/1workedexample/blob/main/String_Exercise/StringPalindrome.png)
