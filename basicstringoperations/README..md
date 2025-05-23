@@ -1,2 +1,3 @@
-### 📝 Exercise - LinkedList
+### 📝 Exercise - basicstringoperations
+
 - [BasicStringOperations](https://github.com/Adhyashetty-bit/1workedexample/blob/main/basicstringoperations/StringOperations.png)
